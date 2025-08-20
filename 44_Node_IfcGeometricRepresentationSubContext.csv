@@ -1,0 +1,2 @@
+:LABEL,context_identifier,id,ifc_type,precision,target_view
+IfcGeometricRepresentationSubContext,Plan,#29,IFCGEOMETRICREPRESENTATIONSUBCONTEXT,0.01,PLAN_VIEW

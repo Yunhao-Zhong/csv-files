@@ -1,0 +1,16 @@
+:LABEL,id,ifc_type,layer_set_name,material_layers
+IfcMaterialLayerSet,#3982,IFCMATERIALLAYERSET,Basic Wall:Exterior - Brick on Block,"#3892,#3901,#3916,#3931,#3940,#3981"
+IfcMaterialLayerSet,#4202,IFCMATERIALLAYERSET,Basic Wall:Interior - Partition (92mm Stud),"#4199,#4200,#4201"
+IfcMaterialLayerSet,#4360,IFCMATERIALLAYERSET,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall,"#4353,#4354,#4355,#4356,#4357,#4358,#4359"
+IfcMaterialLayerSet,#4801,IFCMATERIALLAYERSET,Basic Wall:Foundation - Concrete (417mm),#4800
+IfcMaterialLayerSet,#5040,IFCMATERIALLAYERSET,Basic Wall:Foundation - Concrete (435mm),#5039
+IfcMaterialLayerSet,#5244,IFCMATERIALLAYERSET,Floor:127mm Slab on Grade,#5243
+IfcMaterialLayerSet,#5842,IFCMATERIALLAYERSET,Basic Wall:Interior - Plumbing (152mm Stud),"#5839,#5840,#5841"
+IfcMaterialLayerSet,#6222,IFCMATERIALLAYERSET,Floor:Residential - Wood Joist with Subflooring,"#6212,#6221"
+IfcMaterialLayerSet,#20880,IFCMATERIALLAYERSET,Floor:Finish Floor - Wood,"#20870,#20879"
+IfcMaterialLayerSet,#21320,IFCMATERIALLAYERSET,Floor:Finish Floor - Ceramic Tile,"#21278,#21319"
+IfcMaterialLayerSet,#22646,IFCMATERIALLAYERSET,Basic Roof:Live Roof over Wood Joist Flat Roof,"#22624,#22633,#22642,#22643,#22644,#22645"
+IfcMaterialLayerSet,#23674,IFCMATERIALLAYERSET,Compound Ceiling:Gypsum Board,"#23672,#23673"
+IfcMaterialLayerSet,#24663,IFCMATERIALLAYERSET,Basic Wall:Interior - Furring (152 mm Stud),"#24661,#24662"
+IfcMaterialLayerSet,#37848,IFCMATERIALLAYERSET,Floor:150mm Exterior Slab on Grade,#37847
+IfcMaterialLayerSet,#37953,IFCMATERIALLAYERSET,Basic Wall:Interior - Furring (38 mm Stud),"#37951,#37952"
