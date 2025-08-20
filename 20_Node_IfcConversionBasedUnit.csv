@@ -1,2 +1,2 @@
-:LABEL,id,ifc_type,name
-IfcConversionBasedUnit,#21,IFCCONVERSIONBASEDUNIT,DEGREE
+:LABEL,id,ifc_type,name,unit_name
+IfcConversionBasedUnit,#21,IFCCONVERSIONBASEDUNIT,DEGREE,DEGREE
