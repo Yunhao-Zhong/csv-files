@@ -1,0 +1,57 @@
+:LABEL,global_id,id,ifc_type,name,object_type,tag
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FNld,#4131,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):138584,Basic Wall:Interior - Partition (92mm Stud):128360,138584
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FNbT,#4287,IFCWALLSTANDARDCASE,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:128555,139234
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FKRi,#4399,IFCWALLSTANDARDCASE,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:128555,139347
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FKRH,#4465,IFCWALLSTANDARDCASE,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139374,Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:128555,139374
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FKIu,#4553,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):139783,Basic Wall:Interior - Partition (92mm Stud):128360,139783
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FKGS,#4598,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):139939,Basic Wall:Interior - Partition (92mm Stud):128360,139939
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FK80,#4643,IFCWALLSTANDARDCASE,Basic Wall:Foundation - Concrete (417mm):140479,Basic Wall:Foundation - Concrete (417mm):128676,140479
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FK9N,#4818,IFCWALLSTANDARDCASE,Basic Wall:Foundation - Concrete (417mm):140520,Basic Wall:Foundation - Concrete (417mm):128676,140520
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FKEr,#4868,IFCWALLSTANDARDCASE,Basic Wall:Foundation - Concrete (417mm):140554,Basic Wall:Foundation - Concrete (417mm):128676,140554
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FKE5,#4918,IFCWALLSTANDARDCASE,Basic Wall:Foundation - Concrete (417mm):140602,Basic Wall:Foundation - Concrete (417mm):128676,140602
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FK3E,#4968,IFCWALLSTANDARDCASE,Basic Wall:Foundation - Concrete (435mm):140913,Basic Wall:Foundation - Concrete (435mm):207146,140913
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FK04,#5057,IFCWALLSTANDARDCASE,Basic Wall:Foundation - Concrete (435mm):140987,Basic Wall:Foundation - Concrete (435mm):207146,140987
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FK1b,#5106,IFCWALLSTANDARDCASE,Basic Wall:Foundation - Concrete (435mm):141018,Basic Wall:Foundation - Concrete (435mm):207146,141018
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLMr,#5775,IFCWALLSTANDARDCASE,Basic Wall:Interior - Plumbing (152mm Stud):144138,Basic Wall:Interior - Plumbing (152mm Stud):128382,144138
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLKI,#5859,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):144301,Basic Wall:Interior - Partition (92mm Stud):128360,144301
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLEJ,#6036,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):144684,Basic Wall:Interior - Partition (92mm Stud):128360,144684
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLCm,#6080,IFCWALLSTANDARDCASE,Basic Wall:Interior - Plumbing (152mm Stud):144783,Basic Wall:Interior - Plumbing (152mm Stud):128382,144783
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FNqI,#3999,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:138157,Basic Wall:Exterior - Brick on Block:130892,138157
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FNhv,#4087,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:138310,Basic Wall:Exterior - Brick on Block:130892,138310
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLQD,#5448,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:143410,Basic Wall:Exterior - Brick on Block:130892,143410
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLOH,#5548,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:143534,Basic Wall:Exterior - Brick on Block:130892,143534
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FKST,#4508,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):139682,Basic Wall:Interior - Partition (92mm Stud):128360,139682
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FNau,#4219,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):139143,Basic Wall:Interior - Partition (92mm Stud):128360,139143
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLTF,#5642,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):143856,Basic Wall:Interior - Partition (92mm Stud):128360,143856
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FL8v,#5903,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):144518,Basic Wall:Interior - Partition (92mm Stud):128360,144518
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLJd,#5731,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):143960,Basic Wall:Interior - Partition (92mm Stud):128360,143960
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FL96,#5992,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):144633,Basic Wall:Interior - Partition (92mm Stud):128360,144633
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLIE,#5687,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):143921,Basic Wall:Interior - Partition (92mm Stud):128360,143921
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FL9r,#5948,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):144586,Basic Wall:Interior - Partition (92mm Stud):128360,144586
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FNtn,#3797,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:138062,Basic Wall:Exterior - Brick on Block:130892,138062
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FNr2,#4043,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:138237,Basic Wall:Exterior - Brick on Block:130892,138237
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLR9,#5498,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:143478,Basic Wall:Exterior - Brick on Block:130892,143478
+IfcWallStandardCase,2O2Fr$t4X7Zf8NOew3FLPP,#5598,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:143590,Basic Wall:Exterior - Brick on Block:130892,143590
+IfcWallStandardCase,0jf0rYHfX3RAB3bSIRjmmy,#22663,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:184944,Basic Wall:Exterior - Brick on Block:130892,184944
+IfcWallStandardCase,0jf0rYHfX3RAB3bSIRjmpw,#22708,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:185014,Basic Wall:Exterior - Brick on Block:130892,185014
+IfcWallStandardCase,0jf0rYHfX3RAB3bSIRjmoa,#22753,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:185064,Basic Wall:Exterior - Brick on Block:130892,185064
+IfcWallStandardCase,0jf0rYHfX3RAB3bSIRjmr1,#22798,IFCWALLSTANDARDCASE,Basic Wall:Exterior - Brick on Block:185101,Basic Wall:Exterior - Brick on Block:130892,185101
+IfcWallStandardCase,0iEHWY1$XA8eQeeULq4jZ1,#24596,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (152 mm Stud):189074,Basic Wall:Interior - Furring (152 mm Stud):187795,189074
+IfcWallStandardCase,0iEHWY1$XA8eQeeULq4j_U,#24680,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (152 mm Stud):189901,Basic Wall:Interior - Furring (152 mm Stud):187795,189901
+IfcWallStandardCase,0iEHWY1$XA8eQeeULq4jpl,#24723,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):190140,Basic Wall:Interior - Partition (92mm Stud):128360,190140
+IfcWallStandardCase,0iEHWY1$XA8eQeeULq4jDb,#24768,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (152 mm Stud):190774,Basic Wall:Interior - Furring (152 mm Stud):187795,190774
+IfcWallStandardCase,0iEHWY1$XA8eQeeULq4jE6,#24813,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (152 mm Stud):190933,Basic Wall:Interior - Furring (152 mm Stud):187795,190933
+IfcWallStandardCase,0dxE1Sy6nDqfpDb5vIMNiA,#31431,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (152 mm Stud):193247,Basic Wall:Interior - Furring (152 mm Stud):187795,193247
+IfcWallStandardCase,0dxE1Sy6nDqfpDb5vIMN_Z,#31476,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (152 mm Stud):194166,Basic Wall:Interior - Furring (152 mm Stud):187795,194166
+IfcWallStandardCase,1aj$VJZFn2TxepZUBcKpvt,#35199,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):203347,Basic Wall:Interior - Partition (92mm Stud):128360,203347
+IfcWallStandardCase,1aj$VJZFn2TxepZUBcKpZw,#35357,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):203998,Basic Wall:Interior - Partition (92mm Stud):128360,203998
+IfcWallStandardCase,1aj$VJZFn2TxepZUBcKpee,#35452,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):204300,Basic Wall:Interior - Partition (92mm Stud):128360,204300
+IfcWallStandardCase,1aj$VJZFn2TxepZUBcKphf,#35497,IFCWALLSTANDARDCASE,Basic Wall:Interior - Partition (92mm Stud):204493,Basic Wall:Interior - Partition (92mm Stud):128360,204493
+IfcWallStandardCase,3Y4YRln2r91vflHcHE5IVS,#37913,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (38 mm Stud):217414,Basic Wall:Interior - Furring (38 mm Stud):128404,217414
+IfcWallStandardCase,3Y4YRln2r91vflHcHE5IVT,#37970,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (38 mm Stud):217415,Basic Wall:Interior - Furring (38 mm Stud):128404,217415
+IfcWallStandardCase,3Y4YRln2r91vflHcHE5IVI,#38015,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (38 mm Stud):217416,Basic Wall:Interior - Furring (38 mm Stud):128404,217416
+IfcWallStandardCase,3Y4YRln2r91vflHcHE5IVJ,#38060,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (38 mm Stud):217417,Basic Wall:Interior - Furring (38 mm Stud):128404,217417
+IfcWallStandardCase,3Y4YRln2r91vflHcHE5ITp,#38105,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (38 mm Stud):217577,Basic Wall:Interior - Furring (38 mm Stud):128404,217577
+IfcWallStandardCase,3Y4YRln2r91vflHcHE5ITm,#38150,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (38 mm Stud):217578,Basic Wall:Interior - Furring (38 mm Stud):128404,217578
+IfcWallStandardCase,3Y4YRln2r91vflHcHE5ITn,#38195,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (38 mm Stud):217579,Basic Wall:Interior - Furring (38 mm Stud):128404,217579
+IfcWallStandardCase,3Y4YRln2r91vflHcHE5ITs,#38240,IFCWALLSTANDARDCASE,Basic Wall:Interior - Furring (38 mm Stud):217580,Basic Wall:Interior - Furring (38 mm Stud):128404,217580

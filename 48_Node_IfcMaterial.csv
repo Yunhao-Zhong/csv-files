@@ -1,0 +1,19 @@
+:LABEL,id,ifc_type,name
+IfcMaterial,#3876,IFCMATERIAL,Masonry - Brick
+IfcMaterial,#3893,IFCMATERIAL,Misc. Air Layers - Air Space
+IfcMaterial,#3902,IFCMATERIAL,Insulation / Thermal Barriers - Rigid insulation
+IfcMaterial,#3917,IFCMATERIAL,Masonry - Concrete Block
+IfcMaterial,#3932,IFCMATERIAL,Metal - Stud Layer
+IfcMaterial,#3941,IFCMATERIAL,Plasterboard
+IfcMaterial,#4717,IFCMATERIAL,Concrete - Cast In Situ
+IfcMaterial,#5235,IFCMATERIAL,Concrete
+IfcMaterial,#6200,IFCMATERIAL,Wood - Sheathing - plywood
+IfcMaterial,#6213,IFCMATERIAL,Wood - Dimensional Lumber
+IfcMaterial,#20861,IFCMATERIAL,Wood - Flooring
+IfcMaterial,#20871,IFCMATERIAL,Insulation / Thermal Barriers - Semi-rigid insulation
+IfcMaterial,#21264,IFCMATERIAL,Ceramic Tile
+IfcMaterial,#21279,IFCMATERIAL,Masonry - Grout
+IfcMaterial,#22616,IFCMATERIAL,Site - Grass
+IfcMaterial,#22625,IFCMATERIAL,Roofing - Barrier
+IfcMaterial,#22634,IFCMATERIAL,Roofing - EPDM Membrane
+IfcMaterial,#36687,IFCMATERIAL,Metal - Steel - 345 MPa
