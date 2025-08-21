@@ -1,0 +1,2 @@
+:LABEL,id,ifc_type,measure_value,unit_component
+IfcMeasureWithUnit,#20,IFCMEASUREWITHUNIT,0.01745329251994328,#18
