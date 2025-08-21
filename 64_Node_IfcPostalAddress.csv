@@ -1,2 +1,0 @@
-:LABEL,address_lines,country,id,ifc_type,postal_code,region,tag,town
-IfcPostalAddress,Enter address here,IL,#35,IFCPOSTALADDRESS,,,,Chicago
