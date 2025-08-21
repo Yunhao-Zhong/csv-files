@@ -1,2 +1,2 @@
-:LABEL,id,ifc_type,name
-IfcPerson,#30,IFCPERSON,cskender
+:LABEL,id,ifc_type
+IfcPerson,#30,IFCPERSON

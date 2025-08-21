@@ -1,22 +1,22 @@
-:LABEL,global_id,id,ifc_type,name,object_type,tag
-IfcSlab,2O2Fr$t4X7Zf8NOew3FK4F,#5165,IFCSLAB,Floor:127mm Slab on Grade:141232,Floor:127mm Slab on Grade,141232
-IfcSlab,2O2Fr$t4X7Zf8NOew3FKcz,#5267,IFCSLAB,Floor:127mm Slab on Grade:143106,Floor:127mm Slab on Grade,143106
-IfcSlab,1hOSvn6df7F8_7GcBWlRqU,#6132,IFCSLAB,Floor:Residential - Wood Joist with Subflooring:144800,Floor:Residential - Wood Joist with Subflooring,144800
-IfcSlab,1hOSvn6df7F8_7GcBWlRrM,#6247,IFCSLAB,Floor:Residential - Wood Joist with Subflooring:144872,Floor:Residential - Wood Joist with Subflooring,144872
-IfcSlab,2OBrcmyk58NupXoVOHUtC0,#20792,IFCSLAB,Floor:Finish Floor - Wood:169093,Floor:Finish Floor - Wood,169093
-IfcSlab,2OBrcmyk58NupXoVOHUtDX,#20903,IFCSLAB,Floor:Finish Floor - Wood:169188,Floor:Finish Floor - Wood,169188
-IfcSlab,2OBrcmyk58NupXoVOHUtBP,#20958,IFCSLAB,Floor:Finish Floor - Wood:169308,Floor:Finish Floor - Wood,169308
-IfcSlab,2OBrcmyk58NupXoVOHUt8F,#21013,IFCSLAB,Floor:Finish Floor - Wood:169354,Floor:Finish Floor - Wood,169354
-IfcSlab,2OBrcmyk58NupXoVOHUt8s,#21080,IFCSLAB,Floor:Finish Floor - Wood:169395,Floor:Finish Floor - Wood,169395
-IfcSlab,2OBrcmyk58NupXoVOHUt5W,#21147,IFCSLAB,Floor:Finish Floor - Wood:169701,Floor:Finish Floor - Wood,169701
-IfcSlab,2OBrcmyk58NupXoVOHUt2f,#21195,IFCSLAB,Floor:Finish Floor - Ceramic Tile:169772,Floor:Finish Floor - Ceramic Tile,169772
-IfcSlab,2OBrcmyk58NupXoVOHUt0F,#21336,IFCSLAB,Floor:Finish Floor - Ceramic Tile:169866,Floor:Finish Floor - Ceramic Tile,169866
-IfcSlab,2OBrcmyk58NupXoVOHUtxr,#21401,IFCSLAB,Floor:Finish Floor - Wood:170352,Floor:Finish Floor - Wood,170352
-IfcSlab,2OBrcmyk58NupXoVOHUtoa,#21449,IFCSLAB,Floor:Finish Floor - Ceramic Tile:170785,Floor:Finish Floor - Ceramic Tile,170785
-IfcSlab,2OBrcmyk58NupXoVOHUtjR,#21497,IFCSLAB,Floor:Finish Floor - Ceramic Tile:171230,Floor:Finish Floor - Ceramic Tile,171230
-IfcSlab,2OBrcmyk58NupXoVOHUtju,#21545,IFCSLAB,Floor:Finish Floor - Ceramic Tile:171261,Floor:Finish Floor - Ceramic Tile,171261
-IfcSlab,2OBrcmyk58NupXoVOHUtgP,#21610,IFCSLAB,Floor:Finish Floor - Wood:171292,Floor:Finish Floor - Wood,171292
-IfcSlab,2OBrcmyk58NupXoVOHUten,#21658,IFCSLAB,Floor:Finish Floor - Ceramic Tile:171444,Floor:Finish Floor - Ceramic Tile,171444
-IfcSlab,3ThA22djr8AQQ9eQMA5s7I,#22492,IFCSLAB,Basic Roof:Live Roof over Wood Joist Flat Roof:184483,Basic Roof:Live Roof over Wood Joist Flat Roof,184483
-IfcSlab,1CZILmCaHETO8tf3SgGEWh,#37777,IFCSLAB,Floor:150mm Exterior Slab on Grade:216507,Floor:150mm Exterior Slab on Grade,216507
-IfcSlab,1CZILmCaHETO8tf3SgGEXu,#37864,IFCSLAB,Floor:150mm Exterior Slab on Grade:216552,Floor:150mm Exterior Slab on Grade,216552
+:LABEL,global_id,id,ifc_type,name,object_type,predefined_type,tag
+IfcSlab,2O2Fr$t4X7Zf8NOew3FK4F,#5165,IFCSLAB,Floor:127mm Slab on Grade:141232,Floor:127mm Slab on Grade,FLOOR,141232
+IfcSlab,2O2Fr$t4X7Zf8NOew3FKcz,#5267,IFCSLAB,Floor:127mm Slab on Grade:143106,Floor:127mm Slab on Grade,FLOOR,143106
+IfcSlab,1hOSvn6df7F8_7GcBWlRqU,#6132,IFCSLAB,Floor:Residential - Wood Joist with Subflooring:144800,Floor:Residential - Wood Joist with Subflooring,FLOOR,144800
+IfcSlab,1hOSvn6df7F8_7GcBWlRrM,#6247,IFCSLAB,Floor:Residential - Wood Joist with Subflooring:144872,Floor:Residential - Wood Joist with Subflooring,FLOOR,144872
+IfcSlab,2OBrcmyk58NupXoVOHUtC0,#20792,IFCSLAB,Floor:Finish Floor - Wood:169093,Floor:Finish Floor - Wood,FLOOR,169093
+IfcSlab,2OBrcmyk58NupXoVOHUtDX,#20903,IFCSLAB,Floor:Finish Floor - Wood:169188,Floor:Finish Floor - Wood,FLOOR,169188
+IfcSlab,2OBrcmyk58NupXoVOHUtBP,#20958,IFCSLAB,Floor:Finish Floor - Wood:169308,Floor:Finish Floor - Wood,FLOOR,169308
+IfcSlab,2OBrcmyk58NupXoVOHUt8F,#21013,IFCSLAB,Floor:Finish Floor - Wood:169354,Floor:Finish Floor - Wood,FLOOR,169354
+IfcSlab,2OBrcmyk58NupXoVOHUt8s,#21080,IFCSLAB,Floor:Finish Floor - Wood:169395,Floor:Finish Floor - Wood,FLOOR,169395
+IfcSlab,2OBrcmyk58NupXoVOHUt5W,#21147,IFCSLAB,Floor:Finish Floor - Wood:169701,Floor:Finish Floor - Wood,FLOOR,169701
+IfcSlab,2OBrcmyk58NupXoVOHUt2f,#21195,IFCSLAB,Floor:Finish Floor - Ceramic Tile:169772,Floor:Finish Floor - Ceramic Tile,FLOOR,169772
+IfcSlab,2OBrcmyk58NupXoVOHUt0F,#21336,IFCSLAB,Floor:Finish Floor - Ceramic Tile:169866,Floor:Finish Floor - Ceramic Tile,FLOOR,169866
+IfcSlab,2OBrcmyk58NupXoVOHUtxr,#21401,IFCSLAB,Floor:Finish Floor - Wood:170352,Floor:Finish Floor - Wood,FLOOR,170352
+IfcSlab,2OBrcmyk58NupXoVOHUtoa,#21449,IFCSLAB,Floor:Finish Floor - Ceramic Tile:170785,Floor:Finish Floor - Ceramic Tile,FLOOR,170785
+IfcSlab,2OBrcmyk58NupXoVOHUtjR,#21497,IFCSLAB,Floor:Finish Floor - Ceramic Tile:171230,Floor:Finish Floor - Ceramic Tile,FLOOR,171230
+IfcSlab,2OBrcmyk58NupXoVOHUtju,#21545,IFCSLAB,Floor:Finish Floor - Ceramic Tile:171261,Floor:Finish Floor - Ceramic Tile,FLOOR,171261
+IfcSlab,2OBrcmyk58NupXoVOHUtgP,#21610,IFCSLAB,Floor:Finish Floor - Wood:171292,Floor:Finish Floor - Wood,FLOOR,171292
+IfcSlab,2OBrcmyk58NupXoVOHUten,#21658,IFCSLAB,Floor:Finish Floor - Ceramic Tile:171444,Floor:Finish Floor - Ceramic Tile,FLOOR,171444
+IfcSlab,3ThA22djr8AQQ9eQMA5s7I,#22492,IFCSLAB,Basic Roof:Live Roof over Wood Joist Flat Roof:184483,Basic Roof:Live Roof over Wood Joist Flat Roof,ROOF,184483
+IfcSlab,1CZILmCaHETO8tf3SgGEWh,#37777,IFCSLAB,Floor:150mm Exterior Slab on Grade:216507,Floor:150mm Exterior Slab on Grade,FLOOR,216507
+IfcSlab,1CZILmCaHETO8tf3SgGEXu,#37864,IFCSLAB,Floor:150mm Exterior Slab on Grade:216552,Floor:150mm Exterior Slab on Grade,FLOOR,216552
