@@ -1,0 +1,51 @@
+:LABEL,global_id,id,ifc_type,name,object_type,tag
+IfcOpeningElement,1xS3BCk291UvhgP2dvNrrP,#6293,IFCOPENINGELEMENT,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:145788:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNrv5,#6517,IFCOPENINGELEMENT,M_Fixed:4835mm x 2420mm:4835mm x 2420mm:146016:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNrY1,#6569,IFCOPENINGELEMENT,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146596:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNrZJ,#6743,IFCOPENINGELEMENT,M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146678:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNrdW,#6794,IFCOPENINGELEMENT,M_Fixed:750mm x 2200mm:750mm x 2200mm:146885:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNrfE,#7011,IFCOPENINGELEMENT,M_Fixed:750mm x 2200mm:750mm x 2200mm:147051:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNoJ3,#7063,IFCOPENINGELEMENT,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:147686:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNoO$,#7280,IFCOPENINGELEMENT,M_Fixed:819mm x 759mm:819mm x 759mm:147994:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNo1Q,#7497,IFCOPENINGELEMENT,M_Casement:819mm x 759mm:819mm x 759mm:148607:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNo3N,#7729,IFCOPENINGELEMENT,M_Fixed:819mm x 759mm:819mm x 759mm:148722:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNoCx,#7781,IFCOPENINGELEMENT,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:149278:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNom4,#7833,IFCOPENINGELEMENT,M_Fixed:819mm x 759mm:819mm x 759mm:149537:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNopD,#7885,IFCOPENINGELEMENT,M_Casement:819mm x 759mm:819mm x 759mm:149736:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNos1,#7937,IFCOPENINGELEMENT,M_Fixed:819mm x 759mm:819mm x 759mm:149924:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNowu,#7989,IFCOPENINGELEMENT,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNoxK,#8155,IFCOPENINGELEMENT,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150257:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNozF,#8206,IFCOPENINGELEMENT,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNo$h,#8372,IFCOPENINGELEMENT,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478:1,Opening,
+IfcOpeningElement,1JMZUwOon6WAV1rBBORAVn,#12583,IFCOPENINGELEMENT,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157200:1,Opening,157200
+IfcOpeningElement,0st2Ty2kP2i9GWVYN22HBn,#12985,IFCOPENINGELEMENT,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157607:1,Opening,157607
+IfcOpeningElement,1ur9wqEhD1fgF0XSBVdztK,#13340,IFCOPENINGELEMENT,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157950:1,Opening,157950
+IfcOpeningElement,2fQjX2SrTFrxFKC2cOmyZz,#13694,IFCOPENINGELEMENT,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157951:1,Opening,157951
+IfcOpeningElement,3yrt06HiHCHQOnRKTWhuME,#14049,IFCOPENINGELEMENT,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157983:1,Opening,157983
+IfcOpeningElement,1dqkh_grrAr8eEicMrPggp,#14403,IFCOPENINGELEMENT,M_Tall Cabinet-Single Door(2):800 mm:800 mm:157984:1,Opening,157984
+IfcOpeningElement,24EFH82h1DgeJVWlc35MMP,#14758,IFCOPENINGELEMENT,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158080:1,Opening,158080
+IfcOpeningElement,2YwZmYlr9AiPDZRZmucxc5,#15112,IFCOPENINGELEMENT,M_Tall Cabinet-Single Door(2):800 mm:800 mm:158081:1,Opening,158081
+IfcOpeningElement,1xS3BCk291UvhgP2dvNmlJ,#15885,IFCOPENINGELEMENT,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159734:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNnH$,#15999,IFCOPENINGELEMENT,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159834:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNnLa,#16050,IFCOPENINGELEMENT,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160065:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNnNr,#16101,IFCOPENINGELEMENT,M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160208:1,Opening,
+IfcOpeningElement,1_czKmicP9SRkaew1L5q7Z,#16306,IFCOPENINGELEMENT,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:161165:1,Opening,161165
+IfcOpeningElement,3obae0iBn5i9Cv4Ub3eEXf,#16847,IFCOPENINGELEMENT,M_Counter Top w Sink Hole:600mm Depth:600mm Depth:162490:1,Opening,162490
+IfcOpeningElement,1xS3BCk291UvhgP2dvN$je,#21705,IFCOPENINGELEMENT,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvN$lY,#21915,IFCOPENINGELEMENT,M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171975:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNwHx,#21966,IFCOPENINGELEMENT,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:180318:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNwMI,#22018,IFCOPENINGELEMENT,M_Fixed:819mm x 759mm:819mm x 759mm:180663:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNwQb,#22070,IFCOPENINGELEMENT,M_Fixed:819mm x 759mm:819mm x 759mm:180864:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNwSd,#22122,IFCOPENINGELEMENT,M_Casement:819mm x 759mm:819mm x 759mm:180994:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNwTD,#22174,IFCOPENINGELEMENT,M_Fixed:2800mm x 2410mm:2800mm x 2410mm:181096:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNw00,#22226,IFCOPENINGELEMENT,M_Fixed:819mm x 759mm:819mm x 759mm:181285:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNw49,#22278,IFCOPENINGELEMENT,M_Casement:819mm x 759mm:819mm x 759mm:181548:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNw5g,#22330,IFCOPENINGELEMENT,M_Fixed:819mm x 759mm:819mm x 759mm:181583:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNwAF,#22382,IFCOPENINGELEMENT,M_Fixed:750mm x 2200mm:750mm x 2200mm:181930:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNwDm,#22434,IFCOPENINGELEMENT,M_Fixed:750mm x 2200mm:750mm x 2200mm:182101:1,Opening,
+IfcOpeningElement,3v9a8BKHj2mvcndWrD6JMo,#22533,IFCOPENINGELEMENT,Basic Roof:Live Roof over Wood Joist Flat Roof:184483:2,Opening,184483
+IfcOpeningElement,0c3kWfbRLERxKStRVifSpJ,#22546,IFCOPENINGELEMENT,Basic Roof:Live Roof over Wood Joist Flat Roof:184483:3,Opening,184483
+IfcOpeningElement,1xS3BCk291UvhgP2dvNxVS,#22506,IFCOPENINGELEMENT,,Opening,185337
+IfcOpeningElement,1xS3BCk291UvhgP2dvNx5J,#22520,IFCOPENINGELEMENT,,Opening,185718
+IfcOpeningElement,1xS3BCk291UvhgP2dvNd$j,#35241,IFCOPENINGELEMENT,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720:1,Opening,
+IfcOpeningElement,1xS3BCk291UvhgP2dvNdad,#35399,IFCOPENINGELEMENT,M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034:1,Opening,

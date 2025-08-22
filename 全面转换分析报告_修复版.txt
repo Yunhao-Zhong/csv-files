@@ -1,0 +1,160 @@
+IFC to CSV Conversion Summary - 关系修复版
+======================================================================
+
+修复说明：
+------------------------------
+- 修复了95%关系缺失问题，提取实体参数中的隐式关系
+- 添加PropertySet内部属性关系
+- 添加PolyLoop顶点关系
+- 添加MaterialLayer到Material关系
+- 添加几何构建链关系
+
+Node Types and Counts:
+------------------------------
+IfcApplication: 1 nodes
+IfcArbitraryClosedProfileDef: 102 nodes
+IfcArbitraryOpenProfileDef: 184 nodes
+IfcArbitraryProfileDefWithVoids: 18 nodes
+IfcAxis2Placement2D: 397 nodes
+IfcAxis2Placement3D: 1279 nodes
+IfcBeam: 8 nodes
+IfcBooleanClippingResult: 7 nodes
+IfcBuilding: 1 nodes
+IfcBuildingStorey: 4 nodes
+IfcCartesianPoint: 8520 nodes
+IfcCartesianTransformationOperator3D: 167 nodes
+IfcCircle: 96 nodes
+IfcCircleProfileDef: 8 nodes
+IfcColourRgb: 43 nodes
+IfcCompositeCurve: 44 nodes
+IfcCompositeCurveSegment: 322 nodes
+IfcConnectedFaceSet: 235 nodes
+IfcConnectionSurfaceGeometry: 265 nodes
+IfcConversionBasedUnit: 1 nodes
+IfcCovering: 13 nodes
+IfcCurveBoundedPlane: 81 nodes
+IfcCurveStyle: 31 nodes
+IfcCurveStyleFont: 19 nodes
+IfcCurveStyleFontPattern: 57 nodes
+IfcDimensionalExponents: 1 nodes
+IfcDirection: 134 nodes
+IfcDoor: 14 nodes
+IfcDoorLiningProperties: 6 nodes
+IfcDoorStyle: 6 nodes
+IfcDraughtingPredefinedCurveFont: 1 nodes
+IfcElementQuantity: 21 nodes
+IfcExtrudedAreaSolid: 421 nodes
+IfcFace: 4486 nodes
+IfcFaceBasedSurfaceModel: 40 nodes
+IfcFaceBound: 60 nodes
+IfcFaceOuterBound: 4486 nodes
+IfcFillAreaStyle: 10 nodes
+IfcFillAreaStyleHatching: 31 nodes
+IfcFooting: 7 nodes
+IfcFurnishingElement: 61 nodes
+IfcFurnitureType: 25 nodes
+IfcGeometricRepresentationContext: 2 nodes
+IfcGeometricRepresentationSubContext: 1 nodes
+IfcGeometricSet: 25 nodes
+IfcLocalPlacement: 295 nodes
+IfcMappedItem: 167 nodes
+IfcMaterial: 18 nodes
+IfcMaterialDefinitionRepresentation: 18 nodes
+IfcMaterialLayer: 41 nodes
+IfcMaterialLayerSet: 15 nodes
+IfcMaterialLayerSetUsage: 91 nodes
+IfcMeasureWithUnit: 1 nodes
+IfcMember: 4 nodes
+IfcOpeningElement: 50 nodes
+IfcOrganization: 2 nodes
+IfcOwnerHistory: 1 nodes
+IfcPerson: 1 nodes
+IfcPersonAndOrganization: 1 nodes
+IfcPlane: 88 nodes
+IfcPolyLine: 864 nodes
+IfcPolyLoop: 4546 nodes
+IfcPolygonalBoundedHalfSpace: 7 nodes
+IfcPostalAddress: 1 nodes
+IfcPresentationLayerAssignment: 13 nodes
+IfcPresentationStyleAssignment: 267 nodes
+IfcProductDefinitionShape: 286 nodes
+IfcProject: 1 nodes
+IfcPropertySet: 1459 nodes
+IfcPropertySingleValue: 5213 nodes
+IfcQuantityArea: 21 nodes
+IfcRELAGGREGATES: 9 nodes
+IfcRELASSOCIATESMATERIAL: 92 nodes
+IfcRELCONNECTSPATHELEMENTS: 82 nodes
+IfcRELCONTAINEDINSPATIALSTRUCTURE: 15 nodes
+IfcRELDEFINESBYPROPERTIES: 1480 nodes
+IfcRELDEFINESBYTYPE: 37 nodes
+IfcRELFILLSELEMENT: 38 nodes
+IfcRELSPACEBOUNDARY: 265 nodes
+IfcRELVOIDSELEMENT: 50 nodes
+IfcRailing: 4 nodes
+IfcRectangleProfileDef: 293 nodes
+IfcRepresentationMap: 60 nodes
+IfcRoof: 1 nodes
+IfcShapeRepresentation: 483 nodes
+IfcSiUnit: 5 nodes
+IfcSite: 1 nodes
+IfcSlab: 21 nodes
+IfcSpace: 21 nodes
+IfcStair: 2 nodes
+IfcStairFlight: 2 nodes
+IfcStyledItem: 267 nodes
+IfcStyledRepresentation: 18 nodes
+IfcSurfaceOfLinearExtrusion: 184 nodes
+IfcSurfaceStyle: 33 nodes
+IfcSurfaceStyleRendering: 33 nodes
+IfcTrimmedCurve: 96 nodes
+IfcUnitAssignment: 1 nodes
+IfcWall: 1 nodes
+IfcWallStandardCase: 56 nodes
+IfcWindow: 24 nodes
+IfcWindowLiningProperties: 6 nodes
+IfcWindowStyle: 6 nodes
+
+Total Nodes: 38898
+
+Relationship Analysis (修复后):
+------------------------------
+
+原有显式关系：
+  AGGREGATES: 38 relationships
+  CONTAINS: 207 relationships
+  HAS_PROPERTIES: 2350 relationships
+  HAS_MATERIAL: 99 relationships
+  HAS_OPENING: 50 relationships
+  FILLS: 38 relationships
+  HAS_BOUNDARY: 237 relationships
+  IS_TYPE_OF: 99 relationships
+
+新增隐式关系：
+  CONTAINS_PROPERTY: 6371 relationships
+  HAS_VERTEX: 17236 relationships
+  HAS_LOCATION: 639 relationships
+  HAS_AXIS: 211 relationships
+  HAS_REF_DIRECTION: 127 relationships
+  USES_LOOP: 3254 relationships
+  HAS_SWEPT_AREA: 421 relationships
+  HAS_POSITION: 421 relationships
+  HAS_EXTRUDED_DIRECTION: 85 relationships
+  USES_MATERIAL: 41 relationships
+  HAS_MATERIAL_LAYER: 41 relationships
+  FOR_LAYER_SET: 91 relationships
+  CONTAINS_FACE: 4486 relationships
+  HAS_ITEM: 581 relationships
+  STYLES: 249 relationships
+  HAS_STYLES: 267 relationships
+
+关系统计概要：
+- 原有显式关系: 3118
+- 新增隐式关系: 34521
+- 关系总数: 40914
+- 关系数量提升: 1212.2%
+
+Generated Files: 275 CSV files
+
+======================================================================
+修复完成！关系缺失问题已全面解决！

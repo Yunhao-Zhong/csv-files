@@ -1,0 +1,5 @@
+:LABEL,global_id,id,ifc_type,name,object_type,tag
+IfcMember,1gtrSK5QnDuxDwygd0EDGO,#9002,IFCMEMBER,Stair:Residential - 200mm Max Riser 250mm Tread:151086:1,stringer,151086
+IfcMember,34qUFGjJzFKwVWpXe2dTPt,#9020,IFCMEMBER,Stair:Residential - 200mm Max Riser 250mm Tread:151086:2,stringer,151086
+IfcMember,01KzA4SPn5IOODwLEb5RNY,#32096,IFCMEMBER,Stair:Residential - 200mm Max Riser 250mm Tread:198878:1,stringer,198878
+IfcMember,37Fy90kSD2PvviizyM7EKl,#32115,IFCMEMBER,Stair:Residential - 200mm Max Riser 250mm Tread:198878:2,stringer,198878
