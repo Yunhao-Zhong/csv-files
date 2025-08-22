@@ -154,7 +154,7 @@ Relationship Analysis (修复后):
 - 关系总数: 40914
 - 关系数量提升: 1212.2%
 
-Generated Files: 189 CSV files
+Generated Files: 275 CSV files
 
 ======================================================================
 修复完成！关系缺失问题已全面解决！
